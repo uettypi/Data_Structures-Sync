@@ -1,1 +1,1 @@
-# Data_Structures-Sync
+本仓库用于同步我的数据结构课程源代码。
